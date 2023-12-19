@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1699708730 source:/home/milax/Escriptori/Servidor/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdbool.h>
+	<time.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+
